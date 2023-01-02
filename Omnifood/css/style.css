@@ -550,7 +550,8 @@
     ),
     url("../img/eating.jpg");
   background-size: cover;
-  background-position: center;
+  background-position-x: 65%;
+  background-position-y: center;
 }
 
 .cta-form {
